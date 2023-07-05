@@ -1,10 +1,11 @@
 ---
-title: "My New Post"
+title: "App Store Ads"
 date: 2023-03-05T20:03:03+01:00
 draft: false
 tags: ["Annoyances", "Apple", "App Store", "iOS", "iPhone"]
 ---
 
+# Ads Are Ruining the App Store
 Hey, wouldn't it be cool if Apple didn't show the app I'm searching for both as a giant ad and as a search result? Let's keep things simple, shall we?[^1]
 
 | ![Ads are ruining Apple's App Store.](/images/annoyances/annoyance_23-03-05_app_store.png) |

@@ -1,3 +1,4 @@
 +++
 title = "Annoyances"
+menu = "main"
 +++
