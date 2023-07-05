@@ -209,7 +209,7 @@ Welcome to "Things I Learned in 2021"! For the second year now, here are notewor
 
 	Second bonus fact: Poison ivy does not contain any poison but rather an aggressive allergen called urushiol (also the reason you won't find any raw cashews at your grocery store).
 
-51. [There is an orange juice carrier that is 190 meters long and 32 meters wide and has a capacity of 35,750 tonnes of fresh and concentrated orange juice 🍊🚢.]((https://en.wikipedia.org/wiki/Atlanship_SA)
+51. [There is an orange juice carrier that is 190 meters long and 32 meters wide and has a capacity of 35,750 tonnes of fresh and concentrated orange juice 🍊🚢.](https://en.wikipedia.org/wiki/Atlanship_SA)
 	The ship is called *Orange Star* and is run by the Swiss shipping company Atlanship SA. It specializes in transporting refrigerated fresh and concentrated orange juice.
 
 52. [Scorpions do fluoresce and can detect light with their tail 🦂🔦.](https://www.youtube.com/watch?v=f-Nr2z5X7Rs)
