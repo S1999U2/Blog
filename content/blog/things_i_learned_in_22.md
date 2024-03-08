@@ -1,13 +1,7 @@
 +++
 title = "Things I Learned in 2022"
 date = "2023-01-01T19:58:12+01:00"
-
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
-tags = []
+tags = ["Things I Learned"]
 +++
 
 Welcome to "Things I Learned in 2022"! 

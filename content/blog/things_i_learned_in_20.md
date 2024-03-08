@@ -1,13 +1,7 @@
 +++
 title = "Things I Learned in 2020"
 date = "2021-01-01T19:58:12+01:00"
-
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
-tags = []
+tags = ["Things I Learned"]
 +++
 In this blog post, I'll share some of the interesting and unexpected things I came across on the internet in 2020. Without further ado, here are the 25 things that stood out to me.
 

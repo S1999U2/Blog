@@ -1,13 +1,11 @@
 +++
 title = "Things I Learned in 2021"
 date = "2022-01-01T19:58:12+01:00"
-
+tags = ["Things I Learned"]
 #
 # description is optional
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
-tags = []
 +++
 ## Introduction
 Welcome to "Things I Learned in 2021"! For the second year now, here are noteworthy things that stood out to me during last year.
