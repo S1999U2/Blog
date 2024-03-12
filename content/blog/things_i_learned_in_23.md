@@ -14,7 +14,7 @@ More than two months into the new year, but better late than never, here is _Thi
 	A cup of coffee contains between 1.1 and 1.8 grams of fiber, which is 2x-3x the amount found in orange juice. 
 	By the way, tea is approximately 3x more popular than coffee, with only water surpassing its popularity.
 
-| ![A world map illustrating the etymology of the word for 'tea' in various languages, with 'tea' if spread by sea shown in blue, and 'cha' if spread by land shown in red. Key languages are highlighted with their respective word for tea.](/images/blog/things_i_learned_2023/2_tea.webp) |
+| ![A world map illustrating the etymology of the word for 'tea' in various languages, with 'tea' if spread by sea shown in blue, and 'cha' if spread by land shown in red. Key languages are highlighted with their respective word for tea.](https://i.kinja-img.com/image/upload/c_fit,q_60,w_1600/117ecf00299aee725bcceb10511e7899.jpg) |
 |:--:|
 | <sub>*Tea* if by sea, *cha* if by land. Credits: [Nikhil Sonnad](https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world)|
 
@@ -81,7 +81,7 @@ More than two months into the new year, but better late than never, here is _Thi
 22. [The north of the cities in the Ruhr area is poorer than the south because the coal was deeper there and thus was mined later 🪨🧭.](https://twitter.com/LHaffert/status/1620665733591224321)
     The economic disparity between the northern and southern regions of cities in the Ruhr area is attributed to the depth of coal deposits. Deeper coal seams in the north resulted in later development and prolonged industrial activity, leaving a lasting impact on urban development, population distribution, and the socio-economic landscape.
 
-| ![A cross-sectional diagram illustrating the geological layers of the Ruhr region. From north to south, notable features include the North Sea, the city of Bremen, a 5,000-meter cross-section of overburden rock, the city of Münster, a 1,200-meter thick series of overlaying rock layers, and the city of Essen within the Ruhr area. The diagram shows coal-bearing strata and a mining zone extending to approximately 1,500 meters in depth.](/images/blog/things_i_learned_2023/22_kohle_1.jpeg) |
+| ![A cross-sectional diagram illustrating the geological layers of the Ruhr region. From north to south, notable features include the North Sea, the city of Bremen, a 5,000-meter cross-section of overburden rock, the city of Münster, a 1,200-meter thick series of overlaying rock layers, and the city of Essen within the Ruhr area. The diagram shows coal-bearing strata and a mining zone extending to approximately 1,500 meters in depth.](https://www.medienwerkstatt-online.de/lws_wissen/bilder/1051-3.jpg) |
 |:--:|
 | <sub>Geological profile through the Ruhr area. Credits: [@LHaffert](https://twitter.com/LHaffert)|
     
@@ -94,7 +94,7 @@ More than two months into the new year, but better late than never, here is _Thi
 25. [During the Apollo era, NASA employees utilized the _broom method_ to detect dangerous hydrogen fuel leaks by holding a broom out in front of themselves to see if it ignited 🧹🔥🚀.](https://shop.minimuseum.com/blogs/cool-things/the-broom-method)
     This method evolved from using brooms to detect invisible hydrogen flames by their sudden ignition upon contact, to employing advanced hydrogen-sensing tape that changes color to indicate the presence of hydrogen, marking a significant advancement in safety measures.
 
-| ![NASA engineer Heidi Barnes demonstrates the antiquated "broom method" of detecting invisible hydrogen and alcohol fires.](/images/blog/things_i_learned_2023/25_broom_method.jpg) |
+| ![NASA engineer Heidi Barnes demonstrates the antiquated "broom method" of detecting invisible hydrogen and alcohol fires.](https://upload.wikimedia.org/wikipedia/commons/0/05/Hydrogen_Flame_Broom_Test_NASA.jpg) |
 |:--:|
 | <sub>NASA engineer Heidi Barnes demonstrates the antiquated "broom method" of detecting invisible hydrogen and alcohol fires. Credits: [NASA](https://spinoff.nasa.gov/spinoff1997/ps1.html).|
     
@@ -137,7 +137,7 @@ More than two months into the new year, but better late than never, here is _Thi
 37. [Stressed plants emit sounds 🌱🔉.](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
     Plants under stress emit ultrasonic sounds, detectable in both acoustic chambers and greenhouses using a dual-microphone recording system. Machine learning models trained on these sounds were able to accurately identify specific plant conditions such as dehydration and injury, suggesting that plants can communicate distress through audible signals.
 
-| ![Stressed plants emit airborne sounds.](/images/blog/things_i_learned_2023/37_stressed_plants.jpg) |
+| ![Stressed plants emit airborne sounds.](https://ars.els-cdn.com/content/image/1-s2.0-S0092867423002623-fx1_lrg.jpg) |
 |:--:|
 | <sub>Stressed plants emit airborne sounds. Credits: [Khait et al.](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)|
     
@@ -160,7 +160,7 @@ More than two months into the new year, but better late than never, here is _Thi
     
     Bonus: [Spalted wood](https://en.wikipedia.org/wiki/Spalting), often found in dead trees, is a result of fungal activity.
 
-| ![Spalted wood.](/images/blog/things_i_learned_2023/42_spalted_wood.png) |
+| ![Spalted wood.](https://upload.wikimedia.org/wikipedia/commons/1/1b/Gestocktes_Holz.png) |
 |:--:|
 | <sub>Spalted wood. Credits: [LukeTriton](https://commons.wikimedia.org/wiki/User:LukeTriton)|
     
@@ -207,7 +207,7 @@ More than two months into the new year, but better late than never, here is _Thi
 53. [Alpine Marmots have a remarkably low genetic diversity ⛰️🦫🧬.](https://en.m.wikipedia.org/wiki/Alpine_marmot)
     This low genetic diversity is primarily attributed to a bottleneck effect during their colonization of the Alpine habitat following the last ice age.
 
-| ![Low Heterozygosity levels in the Alpine Marmot.](/images/blog/things_i_learned_2023/53_Low_Heterozygosity_levels_in_the_Alpine_Marmot.jpg) |
+| ![Low Heterozygosity levels in the Alpine Marmot.](https://upload.wikimedia.org/wikipedia/commons/7/77/Low_Heterozygosity_levels_in_the_Alpine_Marmot.jpg) |
 |:--:|
 | <sub>Apline Marmots have a remarkably low genetic diversity. Credits: [M Ralser](https://commons.wikimedia.org/w/index.php?title=User:M_ralser&action=edit&redlink=1)|
     
