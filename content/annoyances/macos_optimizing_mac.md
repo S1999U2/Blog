@@ -11,4 +11,4 @@ A few days ago, I set up my newly purchased MacBook. So far, so good, but what d
 
 | ![Optimizing Your Mac.](/images/annoyances/apple/macos_optimizing_mac.png) |
 |:--:|
-| <sub>Optimizing Your Mac.|
+| *Optimizing Your Mac.*|

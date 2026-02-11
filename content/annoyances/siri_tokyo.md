@@ -15,4 +15,4 @@ Obviously, people refer to [Tokio, North Dakota](https://en.wikipedia.org/wiki/T
 
 | ![Siri giving irrelevant results.](/images/annoyances/apple/siri_7.png) |
 |:--:|
-| <sub>Siri giving irrelevant results.|
+| *Siri giving irrelevant results.*|

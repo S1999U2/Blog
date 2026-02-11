@@ -10,4 +10,4 @@ No, I didn't want notifications the first time you asked. Or the second time. So
 
 | ![Apple asking for notifications in the App Store.](/images/annoyances/apple/app_store_3.png) |
 |:--:|
-| <sub>Apple sneakily trying to spam me.|
+| *Apple sneakily trying to spam me.*|

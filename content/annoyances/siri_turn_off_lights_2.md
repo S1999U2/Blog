@@ -15,4 +15,4 @@ Again: this used to work flawlessly for *years*. 🤷
 
 | ![Please confirm: you want to turn off this device.](/images/annoyances/apple/siri_4.png) |
 |:--:|
-| <sub>Siri forgot how to turn off my hallway lights.|
+| *Siri forgot how to turn off my hallway lights.*|

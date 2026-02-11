@@ -9,4 +9,4 @@ tags: ["Annoyances", "Apple", "iOS", "iPhone", "Bug"]
 After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we're 8 months into the iOS 16 release
 | ![Screen rotation being broken in iOS 16.](/images/annoyances/apple/ios_16_rotation_bug.png) |
 |:--:|
-| <sub>Screen rotation is still broken in iOS 16.5.|
+| *Screen rotation is still broken in iOS 16.5.*|

@@ -13,4 +13,4 @@ Of course, I want to know if an app tracks my location. But isn't this getting a
 
 | ![Weather has used your location 454 times in the background over the past 3 days.](/images/annoyances/apple/apple_weather_location_permissions.png) |
 |:--:|
-| <sub>Weather has used your location 454 times in the background over the past 3 days.|
+| *Weather has used your location 454 times in the background over the past 3 days.*|

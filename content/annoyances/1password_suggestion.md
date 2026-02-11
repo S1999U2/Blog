@@ -11,4 +11,4 @@ Best autofill suggestion ever
 
 | ![1Password giving useless autofill suggestions.](/images/annoyances/apps/1password_suggestion.png) |
 |:--:|
-| <sub>1Password giving useless autofill suggestions.|
+| *1Password giving useless autofill suggestions.*|

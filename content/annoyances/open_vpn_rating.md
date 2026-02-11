@@ -12,8 +12,8 @@ Okay, so giving the OpenVPN app five stars takes me straight to the App Store. B
 
 | ![Giving the OpenVPN app five stars.](/images/annoyances/apps/open_vpn_5-stars.png) |
 |:--:|
-| <sub>Sure, rate the app.|
+| *Sure, rate the app.*|
 
 | ![Giving the OpenVPN app four stars.](/images/annoyances/apps/open_vpn_4-stars.png) |
 |:--:|
-| <sub>No way, Jose, take a survey.|
+| *No way, Jose, take a survey.*|

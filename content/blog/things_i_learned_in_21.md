@@ -121,7 +121,7 @@ Welcome to "Things I Learned in 2021"! For the second year now, here are notewor
 
 | ![An illustration of the different layers found in the pelagic zone.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pelagiczone.svg/267px-Pelagiczone.svg.png) |
 |:--:|
-| <sub>An illustration of the different layers found in the pelagic zone. Credits: [TomCatX](https://commons.wikimedia.org/wiki/User:TomCatX).</sub> |
+| *An illustration of the different layers found in the pelagic zone. Credits: [TomCatX](https://commons.wikimedia.org/wiki/User:TomCatX).* |
 
 31. [The carbon footprint was invented/popularized by BP to move responsibility to the individual 🤷.](https://in.mashable.com/science/15520/the-carbon-footprint-sham)
 	Similar to the "don't litter the environment "thing (funded by the beverage and packaging industry), the carbon footprint was invented (in 2000) by BP to move focus and responsibility to the individual.
@@ -136,7 +136,7 @@ Welcome to "Things I Learned in 2021"! For the second year now, here are notewor
 
 | ![Pluto and Charon, to scale.](https://photojournal.jpl.nasa.gov/jpeg/PIA19856.jpg) |
 |:--:|
-| <sub>Pluto and Charon (in enhanced color), to scale. Credits: [NASA](https://commons.wikimedia.org/wiki/File:PIA19856-PlutoCharon-NewHorizons-Color-20150714.jpg).</sub> |
+| *Pluto and Charon (in enhanced color), to scale. Credits: [NASA](https://commons.wikimedia.org/wiki/File:PIA19856-PlutoCharon-NewHorizons-Color-20150714.jpg).* |
 
 
 34. [The Cologne Cathedral was built from 1248 to 1880 (632 years!). After its completion, it was 157 m high and the tallest building for 4 years until it was surpassed by the Washington Monument in 1884 🏰.](https://www.planet-schule.de/mm/nie-wieder-keine-ahnung/architektur/hoechste_gebaeude)
@@ -148,7 +148,7 @@ Welcome to "Things I Learned in 2021"! For the second year now, here are notewor
 
 | ![Spread of the word for mead or honey across Eurasia.](https://i.imgur.com/vfAuikU.png) |
 |:--:|
-| <sub>Spread of the word for *mead* or *honey* across Eurasia. Credits: [targumures](https://www.reddit.com/user/targumures/).</sub> |
+| *Spread of the word for *mead* or *honey* across Eurasia. Credits: [targumures](https://www.reddit.com/user/targumures/).* |
 
 
 36. [Contracting Malaria makes your body produce an odor that makes you more attractive to mosquitoes 🦟🦠👃](https://www.youtube.com/watch?v=38gVZgE39K8)
@@ -190,7 +190,7 @@ Welcome to "Things I Learned in 2021"! For the second year now, here are notewor
 
 | ![Great Auks (extinct) in summer and winter plumage.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Keulemans-GreatAuk.jpg/528px-Keulemans-GreatAuk.jpg) |
 |:--:|
-| <sub>Great Auks (extinct) in summer and winter plumage. Credits: [John Gerrard Keulemans](https://en.wikipedia.org/wiki/John_Gerrard_Keulemans).</sub> |
+| *Great Auks (extinct) in summer and winter plumage. Credits: [John Gerrard Keulemans](https://en.wikipedia.org/wiki/John_Gerrard_Keulemans).* |
 
 48. [Eating two Brazil nuts per day can result in an annual radiation exposure of about 0.16 millisieverts 🌰.](https://www.quarks.de/gesundheit/radioaktive-strahlung-im-alltag/)
 	Brazil nuts contain high amounts of the trace element selenium and also emit 10 Becquerels of radium per kilogram of fresh weight. While this amount of exposure is considered to be within safe levels, it is still higher than other food sources.
@@ -200,7 +200,7 @@ Welcome to "Things I Learned in 2021"! For the second year now, here are notewor
 
 | ![An F/A-18C breaks the sound barrier.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg/1024px-FA-18_Hornet_breaking_sound_barrier_%287_July_1999%29.jpg) |
 |:--:|
-| <sub>An F/A-18C breaks the sound barrier. Credits: [U.S. Navy](https://en.wikipedia.org/wiki/United_States_Navy).</sub> |
+| *An F/A-18C breaks the sound barrier. Credits: [U.S. Navy](https://en.wikipedia.org/wiki/United_States_Navy).* |
 
 50. [Cashews, mangos, and pistachios are edible cousins to the poison ivy plant🥭.](https://www.scientificamerican.com/article/what-do-cashews-mangoes-and-poison-ivy-have-in-common/)
 	Bonus fact: The botanical name for poison ivy is *_Toxicodendron radicans*_  (greek *_toxikos*_ for poison and *_dendron*_ for tree).

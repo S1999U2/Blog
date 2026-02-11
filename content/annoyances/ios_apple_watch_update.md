@@ -13,4 +13,4 @@ So is the *Watch* app broken and unwilling to update. Or is my iPhone lying to m
 
 | ![Apple Watch requires Wi-Fi to update.](/images/annoyances/apple/ios_apple_watch_update.png) |
 |:--:|
-| <sub>Apple Watch requires Wi-Fi to update.|
+| *Apple Watch requires Wi-Fi to update.*|

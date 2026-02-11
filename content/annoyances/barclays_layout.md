@@ -11,4 +11,4 @@ The iPhone X with [the notch](https://www.theverge.com/2017/9/14/16306298/apple-
 
 | ![The Barclays banking app doesn't respect.](/images/annoyances/apps/barclays_layout.png) |
 |:--:|
-| <sub>The Barclays banking app doesn't respect.|
+| *The Barclays banking app doesn't respect.*|

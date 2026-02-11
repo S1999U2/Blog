@@ -13,4 +13,4 @@ Thank's for nothing…
 
 | ![Siri unwilling to translate.](/images/annoyances/apple/siri_8.png) |
 |:--:|
-| <sub>Siri unwilling to translate.|
+| *Siri unwilling to translate.*|

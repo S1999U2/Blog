@@ -13,4 +13,4 @@ Okay 🙄
 
 | ![Hey Siri, When is Calendar Week 26?](/images/annoyances/apple/siri_2.png) |
 |:--:|
-| <sub>Siri forgot how to tell calendar weeks.|
+| *Siri forgot how to tell calendar weeks.*|

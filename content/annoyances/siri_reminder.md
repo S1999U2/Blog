@@ -17,4 +17,4 @@ I’ve created literally thousands of reminders with Siri. Siri correctly transc
 
 | ![Siri fails to set a simple reminder.](/images/annoyances/apple/siri_5.png) |
 |:--:|
-| <sub>Siri fails to set a simple reminder.|
+| *Siri fails to set a simple reminder.*|

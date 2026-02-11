@@ -15,4 +15,4 @@ After all these years, Siri always surprises me with some random answers.
 
 | ![Siri fails  to do basic calculations.](/images/annoyances/apple/siri_6.png) |
 |:--:|
-| <sub>Siri fails to do basic calculations.|
+| *Siri fails to do basic calculations.*|

@@ -15,4 +15,4 @@ Why Siri? This used to work for the last 4 years 🤦‍♂️
 
 | ![Please confirm: you want to turn off this device.](/images/annoyances/apple/siri_1.png) |
 |:--:|
-| <sub>Siri forgot how to turn off my bedroom lights.|
+| *Siri forgot how to turn off my bedroom lights.*|

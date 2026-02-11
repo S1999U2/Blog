@@ -11,4 +11,4 @@ I don’t have an app with that name installed, and as far as I know, I never ha
 
 | ![iOS keyboard giving wildly wrong suggestions.](/images/annoyances/apple/ios_autocorrect_1.png) |
 |:--:|
-| <sub>iOS keyboard giving wildly wrong suggestions..|
+| *iOS keyboard giving wildly wrong suggestions.*|

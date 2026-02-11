@@ -10,4 +10,4 @@ This is on iOS 16.5.1, btw. So we're 15 releases into the iOS 16 cycle.
 
 | ![The iOS Control Center is glitching.](/images/annoyances/apple/ios_control_center.png) |
 |:--:|
-| <sub>15 releases in, iOS 16 is still glitchy.|
+| *15 releases in, iOS 16 is still glitchy.*|

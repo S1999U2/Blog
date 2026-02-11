@@ -12,4 +12,4 @@ Second, Apple knows Audible is already installed and decides to show me the ad a
 
 | ![Apple shows App Store ads for apps already installed on the device.](/images/annoyances/apple/app_store_2.png) |
 |:--:|
-| <sub>Apple Knows How to Make the App Store a Premium Experience.|
+| *Apple Knows How to Make the App Store a Premium Experience.*|

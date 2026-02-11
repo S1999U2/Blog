@@ -15,4 +15,4 @@ Also: *Not Now*? How about never?
 
 | ![Apple asking for notifications permissions in the App Store.](/images/annoyances/apple/app_store_4.png) |
 |:--:|
-| <sub>Apple gets special treatment when asking for permissions.|
+| *Apple gets special treatment when asking for permissions.*|

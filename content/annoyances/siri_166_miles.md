@@ -11,4 +11,4 @@ Siri:
 
 | ![Hey Siri, How Much is 166 Miles?](/images/annoyances/apple/siri_3.jpg) |
 |:--:|
-| <sub>Siri forgot how to convert units.|
+| *Siri forgot how to convert units.*|

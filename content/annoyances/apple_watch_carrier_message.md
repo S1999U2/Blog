@@ -10,4 +10,4 @@ Hmm, okay. Not sure what to do with this. My iPhone didn't show anything, for su
 
 | ![Apple Watch showing an important carrier message.](/images/annoyances/apple/apple_watch_carrier_message.jpg) |
 |:--:|
-| <sub>Apple Watch showing it's limitations once again.|
+| *Apple Watch showing it's limitations once again.*|

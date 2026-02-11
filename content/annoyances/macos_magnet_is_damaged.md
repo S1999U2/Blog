@@ -19,4 +19,4 @@ If Apple knows exactly how to fix it and Apple runs the App Store – why don't
 
 | ![Magnet is damaged and needs to be reinstalled.](/images/annoyances/apple/macos_magnet_is_damaged.png) |
 |:--:|
-| <sub>Magnet is damaged and needs to be reinstalled.|
+| *Magnet is damaged and needs to be reinstalled.*|

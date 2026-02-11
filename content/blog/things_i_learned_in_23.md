@@ -16,7 +16,7 @@ More than two months into the new year, but better late than never, here is _Thi
 
 | ![A world map illustrating the etymology of the word for 'tea' in various languages, with 'tea' if spread by sea shown in blue, and 'cha' if spread by land shown in red. Key languages are highlighted with their respective word for tea.](https://i.kinja-img.com/image/upload/c_fit,q_60,w_1600/117ecf00299aee725bcceb10511e7899.jpg) |
 |:--:|
-| <sub>*Tea* if by sea, *cha* if by land. Credits: [Nikhil Sonnad](https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world)|
+| **Tea* if by sea, *cha* if by land. Credits: [Nikhil Sonnad](https://qz.com/1176962/map-how-the-word-tea-spread-over-land-and-sea-to-conquer-the-world)*|
 
 3. [Bumblebees exhibit play-like behavior 🐝🥎.](https://www.sciencedirect.com/science/article/pii/S0003347222002366)
 	Bumblebees have been observed engaging in playful activities, specifically rolling balls, which meets established criteria for animal play behavior. This activity seems to be intrinsically rewarding for the bees, unrelated to immediate survival needs. Notably, younger bees and males tend to engage in these play behaviors more frequently and for longer durations, respectively.
@@ -83,7 +83,7 @@ More than two months into the new year, but better late than never, here is _Thi
 
 | ![A cross-sectional diagram illustrating the geological layers of the Ruhr region. From north to south, notable features include the North Sea, the city of Bremen, a 5,000-meter cross-section of overburden rock, the city of Münster, a 1,200-meter thick series of overlaying rock layers, and the city of Essen within the Ruhr area. The diagram shows coal-bearing strata and a mining zone extending to approximately 1,500 meters in depth.](https://www.medienwerkstatt-online.de/lws_wissen/bilder/1051-3.jpg) |
 |:--:|
-| <sub>Geological profile through the Ruhr area. Credits: [@LHaffert](https://twitter.com/LHaffert)|
+| *Geological profile through the Ruhr area. Credits: [@LHaffert](https://twitter.com/LHaffert)*|
     
 23. [_Kilkenny_ beer was initially the brand name used during the 1980s and 1990s to market a stronger version of Smithwick's in the European and Canadian markets due to the difficulty in pronouncing 'Smithwick’s' 🍺🇮🇪.](https://en.wikipedia.org/wiki/Kilkenny_(beer))
     The term now refers to a similar yet distinct beer, following the closure of the original Kilkenny brewery in 2013 and the move of production to Dublin. A visitor center at the brewery's original site remains open, offering insights into its history.
@@ -96,7 +96,7 @@ More than two months into the new year, but better late than never, here is _Thi
 
 | ![NASA engineer Heidi Barnes demonstrates the antiquated "broom method" of detecting invisible hydrogen and alcohol fires.](https://upload.wikimedia.org/wikipedia/commons/0/05/Hydrogen_Flame_Broom_Test_NASA.jpg) |
 |:--:|
-| <sub>NASA engineer Heidi Barnes demonstrates the antiquated "broom method" of detecting invisible hydrogen and alcohol fires. Credits: [NASA](https://spinoff.nasa.gov/spinoff1997/ps1.html).|
+| *NASA engineer Heidi Barnes demonstrates the antiquated "broom method" of detecting invisible hydrogen and alcohol fires. Credits: [NASA](https://spinoff.nasa.gov/spinoff1997/ps1.html).*|
     
 26. [Rapamycin, a molecule with various medical applications, was originally discovered in the soil of Easter Island 💊🗿.](https://radiolab.org/podcast/dirty-drug-and-ice-cream-tub)
     The discovery of rapamycin, with its uses ranging from coating coronary stents to treating rare lung diseases and cell tumors, traces back to Easter Island's soil. This story underscores the potential of natural sources in medical advancements.
@@ -139,7 +139,7 @@ More than two months into the new year, but better late than never, here is _Thi
 
 | ![Stressed plants emit airborne sounds.](https://ars.els-cdn.com/content/image/1-s2.0-S0092867423002623-fx1_lrg.jpg) |
 |:--:|
-| <sub>Stressed plants emit airborne sounds. Credits: [Khait et al.](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)|
+| *Stressed plants emit airborne sounds. Credits: [Khait et al.](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)*|
     
 38. [Parrots enjoy video calling other parrots 🦜🤳.](https://www.theguardian.com/environment/2023/apr/21/parrots-taught-to-video-call-each-other-become-less-lonely-finds-research)
     A study involving 18 pet parrots demonstrated that allowing them to make video calls to other parrots using touchscreen tablets reduced their feelings of isolation. The birds engaged more in social behaviors, indicating that video calling can replicate the social interactions found in natural flock dynamics.
@@ -162,14 +162,14 @@ More than two months into the new year, but better late than never, here is _Thi
 
 | ![Spalted wood.](https://upload.wikimedia.org/wikipedia/commons/1/1b/Gestocktes_Holz.png) |
 |:--:|
-| <sub>Spalted wood. Credits: [LukeTriton](https://commons.wikimedia.org/wiki/User:LukeTriton)|
+| *Spalted wood. Credits: [LukeTriton](https://commons.wikimedia.org/wiki/User:LukeTriton)*|
     
 43. [Sweden's size is remarkably large (from a European perspective) 🇸🇪.](https://www.thetruesize.com/#?borders=1~!MTQ1MTQyMTc.MTMwNjE1MjM*MjExOTU1NTI(MTcwMDk3NjE~!SE*MTcwMTMyOQ.MjU0OTA2Mg)MA)
     Covering approximately 450,000 square kilometers, Sweden's land area is comparable to that of California (~425,000 square kilometers) and about 1.25 times larger than Germany (357,000 square kilometers). When mapped from Germany's northernmost point near Flensburg, Sweden stretches southward almost to Naples, Italy.
 
 | ![The size of Sweden compared to Germany.](/images/blog/things_i_learned_2023/43_sweden.png) |
 |:--:|
-| <sub>Sweden is much larger than most people think. Credits: [The True Size...](https://www.thetruesize.com)|
+| *Sweden is much larger than most people think. Credits: [The True Size...](https://www.thetruesize.com)*|
     
 44. [Plate subduction is a complex and intriguing geological process 🌋🌏.](https://www.youtube.com/watch?v=3C2HVOB-g5s)
     Despite the [_Deep Dive_](https://www.youtube.com/@deepdive8755) YouTube channel having only four videos, each offers valuable insights into the intricacies of plate subduction, a fundamental aspect of Earth's tectonic activity.
@@ -209,7 +209,7 @@ More than two months into the new year, but better late than never, here is _Thi
 
 | ![Low Heterozygosity levels in the Alpine Marmot.](https://upload.wikimedia.org/wikipedia/commons/7/77/Low_Heterozygosity_levels_in_the_Alpine_Marmot.jpg) |
 |:--:|
-| <sub>Apline Marmots have a remarkably low genetic diversity. Credits: [M Ralser](https://commons.wikimedia.org/w/index.php?title=User:M_ralser&action=edit&redlink=1)|
+| *Apline Marmots have a remarkably low genetic diversity. Credits: [M Ralser](https://commons.wikimedia.org/w/index.php?title=User:M_ralser&action=edit&redlink=1)*|
     
 54. [Blue-green colexification is the linguistic phenomenon where a single word is used to describe both the colors blue and green 💙💚🤷.](https://youtube.com/watch?v=p4_PSyhtHh0)
     In languages exhibiting colexification, one term may describe the sea, sky, and green vegetation, with historical linguistic evolution in certain cultures leading to the separate classification of these colors.

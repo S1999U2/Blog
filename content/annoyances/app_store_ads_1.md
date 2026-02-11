@@ -10,7 +10,7 @@ Hey, wouldn't it be cool if Apple didn't show the app I'm searching for both as 
 
 | ![Ads are ruining Apple's App Store.](/images/annoyances/apple/app_store_1.png) |
 |:--:|
-| <sub>Ads are ruining Apple's App Store.|
+| *Ads are ruining Apple's App Store.*|
 
 [^1]: I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore [Streaks](https://streaks.app) and all of the [other apps](https://crunchybagel.com/about/) they offer. You should definitely check them out.
 
