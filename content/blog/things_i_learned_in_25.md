@@ -1,6 +1,6 @@
 +++
 title = "Things I Learned in 2025"
-date = "2025-01-01T19:58:12+01:00"
+date = "2026-01-01T19:58:12+01:00"
 tags = []
 +++
 With 2025 behind us, the numbers look bleak. My five-year average for "Things I Learned" is 61 factoids, but last year fewer than 20 items made it onto the list.
