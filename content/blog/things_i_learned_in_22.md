@@ -5,14 +5,16 @@ tags = ["Things I Learned"]
 +++
 
 Welcome to "Things I Learned in 2022"! 
-In this post, I'll be sharing a list of things that stood out to me as I read and listened to various sources throughout the year. These are things that I found noteworthy and thought-provoking, and I've included sources for each item as well as summaries of the linked articles or topics for those who are interested in more than just the headline. If you happen to notice any errors, you can reach me on Mastodon at [@Secundus@home.social](https://home.social/@Secundus). Without further ado, let's dive into the list of 95 things I learned in 2022!
+In this post, I'll be sharing a list of things that stood out to me as I read and listened to various sources throughout the year. These are things that I found noteworthy and thought-provoking, and I've included sources for nearly every item as well as summaries of the linked articles or topics for those who are interested in more than just the headline. If you happen to notice any errors, you can reach me on Mastodon at [@Secundus@home.social](https://home.social/@Secundus). Without further ado, let's dive into the list of 95 things I learned in 2022!
 
 
 1. [Mammals can breathe through their anus 💨🐀🐷🍩.](https://phys.org/news/2021-05-mammals-anus-emergencies.html)
    
 	A new study found that mammals like rodents and pigs can use their intestines for respiration. The researchers demonstrated that the delivery of oxygen gas or oxygenated liquid through the rectum provided vital rescue to two mammalian models of respiratory failure.
 
-2. The first cheese eaten by humans might have been discovered in killed animals like young deer that had partially fermented milk in their intestines 🧀🦌🤢.
+2. [Cheese was discovered by accident when milk curdled in a pouch made from an animal's stomach 🧀🐐🤢.](https://www.ncbi.nlm.nih.gov/books/NBK562892/?report=printable)
+
+	The American Academy of Microbiology describes this as a common origin story, but says there is no evidence to confirm it.
 
 3. [China is planning over 150 new nuclear reactors in the next 15 years – more than the rest of the world has built in the past 35 years 🇨🇳🏭☢️.](https://www.bloomberg.com/news/features/2021-11-02/china-climate-goals-hinge-on-440-billion-nuclear-power-plan-to-rival-u-s?sref=Yg3sQEZ2&cmpid=socialflow-twitter-business&leadSource=uverify%20wall)
    
@@ -20,15 +22,15 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 
 4. [Los Angeles has a massive oil industry inside its city 🏙️🛢️.](https://www.youtube.com/watch?v=5XimGagIVHc)
 	
-	In the city of Los Angeles, thousands of oil wells are hidden between cafés and bookstore-cafés producing petroleum. For most of the city's history, the oil industry was visible. However, as public sentiment turned against the oil rigs, petroleum companies built oil derricks that looked like synagogues or other innocuous buildings. While this solution worked for a while, the people of LA eventually grew tired of their city's industrial look, so they started to cover up the oil rigs.
+	In the city of Los Angeles, thousands of oil wells are hidden among cafés and bookstores, producing petroleum. For most of the city's history, the oil industry was visible. However, as public sentiment turned against the oil rigs, petroleum companies built oil derricks that looked like synagogues or other innocuous buildings. While this solution worked for a while, the people of LA eventually grew tired of their city's industrial look, so they started to cover up the oil rigs.
 
 5. [Himalayan giant bees form a superorganism by buzzing in sync. They do this to defend themselves from enemies such as hornets 🐝💤.](https://www.youtube.com/watch?v=dU2rLhpaMAY)
 	
-	The bees synchronize the movements of their abdomen, which is used as a form of defense against predators. While Hornets cannot defeat these bees by themselves, they can still cause significant damage by attacking individual bees.
+	The bees synchronize the movements of their abdomen, which is used as a form of defense against predators. While hornets cannot defeat these bees by themselves, they can still cause significant damage by attacking individual bees.
 
 6. [This probably isn't news to anyone, but mining bitcoin uses a staggering amount of energy ⚡.](https://digiconomist.net/bitcoin-energy-consumption)
 	
-	At an estimated energy consumption of 204 TWh/year, Bitcoin's carbon footprint in mid-2022 was between the electricity consumption of South Africa (210 TWh/year, 60 million people) and Thailand (185 TWh/year, 69 million people). At the same time, a single Bitcoin transaction has a carbon footprint equivalent to 918,135 VISA transactions or 69,043 hours of watching YouTube. The electrical energy used for a single Bitcoin transaction is equivalent to the power consumption of an average US household over 25.46 days.
+	At an estimated electricity consumption of 204 TWh/year in mid-2022, Bitcoin used more electricity than Thailand (185 TWh/year, 69 million people) and slightly less than South Africa (210 TWh/year, 60 million people). At the same time, a single Bitcoin transaction has a carbon footprint equivalent to 918,135 VISA transactions or 69,043 hours of watching YouTube. The electrical energy used for a single Bitcoin transaction is equivalent to the power consumption of an average US household over 25.46 days.
 
 7. [The viral cause of influenza (and the Spanish Flu) was discovered just 90 years ago 😷🦠.](https://www.theguardian.com/science/the-h-word/2013/jul/08/influenza-virus-discovery-mrc-nimr)
 	
@@ -38,7 +40,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	The World Meteorological Organization (WMO) has recognized two new world records for megaflashes of lightning in North and South America. The records were established using the latest satellite technology. The record for the longest single flash covered a horizontal distance of 768 km (477.2 miles) across the southern United States on 29 April 2020, while the record for the greatest duration for a single lightning flash was 17.102 seconds from a flash that developed continuously over Uruguay and northern Argentina on 18 June 2020. Both records occurred in hotspots for Mesoscale Convective System thunderstorms, where extraordinary megaflashes can occur.
 
-9. [The Global Positioning System (GPS) is marvelous. And this explainer really goes into the details of the inner workings of it (for example, why are four satellites required even though three should be enough to determine the position on a sphere) 🛰️](https://ciechanow.ski/gps/)
+9. [The Global Positioning System (GPS) is marvelous. And this explainer really goes into the details of the inner workings of it (for example, why four satellites are required even though three should be enough to determine the position on a sphere) 🛰️](https://ciechanow.ski/gps/)
 	
 	GPS works by using a network of satellites orbiting the Earth that transmit signals down to the surface. Receivers then use the time delay between transmission and reception to calculate the distance to the satellite. By measuring the distance to at least four satellites, the location can be determined using trilateration.
 	But this summary doesn't do Bartosz Ciechanowski's piece justice – you really should give it a read (and all his [other posts](https://ciechanow.ski/archives/) too)!
@@ -47,11 +49,11 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	The cheese is stored hundreds of feet below ground in converted limestone mines in Missouri, referred to as "cheese caves." This excess of cheese began in the 1970s when the government provided over 2 billion dollars to the dairy industry to increase production and lower the 30% inflation on dairy products. However, this led to overproduction and the government purchasing excess cheese to keep prices low. By 2019, dairy consumption was less than half it was thirty years ago.
 
-11. [Measles Infection can cause the immune system to be "reset" – prior immunities must be almost entirely re-learned 🦠.](https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia)
+11. [Measles infection can cause the immune system to be "reset" – prior immunities must be almost entirely re-learned 🦠.](https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia)
 	
 	Measles causes "immune amnesia," a phenomenon where the immune system forgets all the pathogens it has encountered before the measles infection. This means that the body has to start again to learn what is good and bad. The phenomenon is thought to have been with us for millennia but was only discovered in 2012. It is unknown how long immune amnesia lasts, and some studies suggest it could be driving other epidemics.
 
-12. [The Word *broadcasting* comes from the scattering of seeds (wheat) across the field 🌾🌱🧑‍🌾.](https://www.youtube.com/watch?v=HlPm7JtaxE4)
+12. [The word *broadcasting* comes from the scattering of seeds (wheat) across the field 🌾🌱🧑‍🌾.](https://www.youtube.com/watch?v=HlPm7JtaxE4)
 	
 	In this video, the author describes how to grow wheat and turn it into bread. He talks about the history of wheat cultivation, the problems with the green revolution, and how Norman Borlaug helped solve those problems.
 
@@ -59,9 +61,9 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	ASML is developing the next generation of its extreme ultraviolet (EUV) lithography machines, which will be faster and more precise than the current generation. The biggest challenge for EUV is throughput or the number of wafers a single machine can produce.
 
-14. [TSMCs requirements for cleanliness in their EUV lithography are insane 🤯.](https://www.youtube.com/watch?v=TvEk6QsNuRA)
+14. [TSMC’s requirements for cleanliness in their EUV lithography are insane 🤯.](https://www.youtube.com/watch?v=TvEk6QsNuRA)
 	
-	TSMC's Giga-Fabs are complex, expensive chip manufacturing facilities that give them a competitive advantage over other companies. They offer a service that allows multiple customers to share the cost of putting new chips on a single wafer, helping smaller companies stay competitive. TSMC has also improved in cycle times, making them a leader in the foundry business.
+	TSMC's Giga-Fabs are complex, expensive chip manufacturing facilities that give them a competitive advantage over other companies. They offer a service that allows multiple customers to share the cost of putting new chips on a single wafer, helping smaller companies stay competitive. TSMC has also improved its cycle times, making them a leader in the foundry business.
 	Clean rooms are one of the main drivers of fab expense. In the early phase of EUV production TSMC required less than one particle over 52 nm wide (the size of a small virus) each week.
 
 15. [Transient Luminous Events are amazing ⛈️.](https://www.youtube.com/watch?v=tGPQ5kzJ9Tg)
@@ -69,13 +71,14 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	Red sprites are large-scale electrical discharges that occur high in the atmosphere during clear weather conditions. They are related to blue jets and blue starters, which are also atmospheric discharges. A new discovery has shown that ghost-like emissions can be produced by excited oxygen molecules in red sprites and blue jets, similar to green sprites.
 
 16. [Almonds and peaches are so genetically similar they can fertilize each other and produce viable hybrids 🌰🍑.](https://www.smbc-comics.com/comic/no-way)
+
 	Researchers at the Centre for Research in Agricultural Genomics have sequenced the genome of the almond tree and compared it to the genome of the peach tree. They found almond and peach trees had a common ancestor ~6 million years ago.
 
-17. [The Soyuz rockets are to this day lighted using basically giant wooden matchsticks 🚀🧨.](https://www.youtube.com/watch?v=Y-xyXDiC92s)
+17. [The Soyuz rockets are to this day lit using basically giant wooden matchsticks 🚀🧨.](https://www.youtube.com/watch?v=Y-xyXDiC92s)
 
 18. [The Vulcan salute (🖖 – "live long and prosper") is at least 2,600 years old.](https://www.youtube.com/watch?v=TvmAaXUKkco)
 	
-	If a Cohanim (Jewish priest) gives you a blessing, he holds his hands like this. And the young  Leonard Nimoy saw this as a child and was later inspired by it and popularized it in the 1960s in the television series Star Trek.
+	If a kohen (Jewish priest) gives you a blessing, he holds his hands like this. And the young Leonard Nimoy saw this as a child and was later inspired by it and popularized it in the 1960s in the television series Star Trek.
 
 19. [The original manuscripts of Caesar's "Commentari de Bello Gallico" are long gone. The oldest surviving book-length manuscripts are almost always later than the sixth century CE 🏛️.](https://www.quora.com/Where-can-the-authentic-manuscript-of-Commentari-de-Bello-Gallico-written-by-Gaius-Julius-Caesar-be-found)
 	
@@ -95,7 +98,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	Wallace's giant bee, the largest bee in the world, was rediscovered by a team of researchers in the Indonesian islands of North Maluku. The bee had not been seen alive since 1981 and was found in a termite nest. It was named after Alfred Russel Wallace, a contemporary of Charles Darwin who studied it in the 1800s. The bee was also known as the "Hitler bee" due to a rare beetle with a similar name being popular with Nazi collectors. The rediscovery of the bee gained worldwide media attention, and Indonesian officials pledged to conduct a thorough survey of the species. However, the bee's existence also attracted attention from the illegal animal trade, with a specimen sold on eBay for thousands of dollars. 
 
-24. [Nuclear Power is not as bad as many belief 🏭🔌.](https://www.youtube.com/watch?v=4aUODXeAM-k)
+24. [Nuclear Power is not as bad as many believe 🏭🔌.](https://www.youtube.com/watch?v=4aUODXeAM-k)
 	
 	For example, one coal plant puts over 100 times more radiation into the air than a nuclear plant. Additionally, coal plant pollution (ash) put into the air by the US alone amounts to 130,000,000,000 kg annually, while all of the nuclear waste ever produced in total amasses to about 450,000,000 kg.
 
@@ -129,11 +132,11 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	The spelling of the word "flour" was once "flower," and it referred to the finest portion of ground grain, similar to the French term "fleur de farine." This word is a doublet of "flower," partially replacing the native word "meal."
 
-33. [There are more species of the *Turbellaria* flatworms  alone (approx. 4,500) than there are of all mammals combined 🪱🐘.](https://en.wikipedia.org/wiki/Turbellaria)
+33. [There are more species of the *Turbellaria* flatworms alone (approx. 4,500) than there are of all mammals combined 🪱🐘.](https://en.wikipedia.org/wiki/Turbellaria)
 	
 	Turbellaria is a type of flatworm that is not a parasite. They are found in water or moist environments and are usually predators. They reproduce sexually and are hermaphrodites.
 
-34. [Half of the world's aspartame production is by the same company that „invented“ MSG 🍬🧂.](https://dynomight.net/aspartame/)
+34. [Half of the world's aspartame production is by the same company that “invented” MSG 🍬🧂.](https://dynomight.net/aspartame/)
 	
 	Aspartame is a synthetic sweetener. When consumed, it is quickly broken down in the gut into three chemicals: phenylalanine, aspartic acid, and methanol. Phenylalanine is an essential amino acid found in most protein-containing foods. At the same time, aspartic acid is a non-essential amino acid also found in protein-containing foods and produced naturally by the body. Methanol is a type of alcohol found in small amounts in various foods and produced naturally by the body. The FDA has extensively studied aspartame and determined it safe for consumption.
 
@@ -143,9 +146,9 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 
 36. [Fennel seeds are actually the whole fruit, not just the seed 🌱.](https://www.youtube.com/watch?v=AIfyZx6hOCk)
 	
-	The anise flavor of licorice and absinthe is caused by estragole, an isomer of anethole. Estragole is also a secondary flavor in basil and tarragon, but it is suspected to be a carcinogen.
+	What we call fennel seeds are actually the small, dry fruits of the fennel plant, each enclosing a seed. The anise flavor of licorice and absinthe is caused by estragole, an isomer of anethole. Estragole is also a secondary flavor in basil and tarragon, but it is suspected to be a carcinogen.
 
-37. [Mosses are mostly independent for their reproduction – their sperm swims to other mosses 💦.](https://www.youtube.com/watch?v=c5I7Hpr_P0Q)
+37. [Mosses need water for reproduction—their sperm swim to other mosses 💦.](https://www.youtube.com/watch?v=c5I7Hpr_P0Q)
 
 38. [There actually is some science to wine tasting 🍷🧑‍🔬.](https://www.youtube.com/watch?v=fYx-Ol9RZK8)
 	
@@ -175,7 +178,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	Initially, "aqua mirabilis" was marketed not as a perfume but as an internally used medicinal product. In 1810, however, Napoleon Bonaparte issued a decree requiring the disclosure of all secret recipes for internally used products. To avoid this, the Cologne was marketed as an "externally applicable agent," thus making it the first fragrance water as we know it today.
 
-41. [Around 50% of your bodies Nitrogen atoms are from the Harber-Bosch method 🧪👩‍🔬.](https://www.youtube.com/watch?v=EvknN89JoWo)
+41. [Around 50% of your body’s nitrogen atoms are from the Haber–Bosch method 🧪👩‍🔬.](https://www.youtube.com/watch?v=EvknN89JoWo)
 
 42. [The laser for ASML's EUV lithographers (which is manufactured by Trumpf) has over 450,000 parts and weighs over 10 tonnes ⚙️🏋️.](https://www.heise.de/select/ct/2022/15/2214516490693412644?nid=ST9jVvjS&nid=BFdTcW_d)
 
@@ -183,13 +186,13 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 
 44. [Peppercorns are actually not corn or seeds but a whole fruit 🌶️.](https://www.youtube.com/watch?v=0Kv0L0slApM)
 	
-	In English, "corn" was used to refer to any seed. However, in recent decades it has almost exclusively been used to refer to corn or maize (also known as Indian corn). Peppercorns, on the other hand, are dried fruits. Black peppercorns are picked before they are fully ripe and then briefly boiled, giving them their brown color when dried. While red peppercorns are picked ripe.
+	In English, "corn" was used to refer to any seed. However, in recent decades it has almost exclusively been used to refer to corn or maize (also known as Indian corn). Peppercorns, on the other hand, are dried fruits. Black peppercorns are picked before they are fully ripe and then briefly boiled, giving them their brown color when dried. Red peppercorns, by contrast, are picked when fully ripe.
 
-45. [Wikipedia has a *List of non-water floods* with examples such as the "London Beer Flood," the "Great Molasses Flood" of Boston, or the 2017th "Pepsi fruit juice flood" 🍹.](https://en.wikipedia.org/wiki/List_of_non-water_floods)
+45. [Wikipedia has a *List of non-water floods* with examples such as the "London Beer Flood," the "Great Molasses Flood" of Boston, or the 2017 "Pepsi fruit juice flood" 🍹.](https://en.wikipedia.org/wiki/List_of_non-water_floods)
 	
 	Non-water floods typically occur when liquids are released from storage facilities or when toxic waste is released from industrial retaining reservoirs. These types of incidents can be catastrophic, especially if they occur in cities. For example, the Great Molasses Flood of 1919 in Boston, US, was caused by the failure of a molasses tank and resulted in 21 deaths. Industrial retaining reservoirs that fail can flood large areas and cause physical and environmental damage. The Ajka alumina plant failure in Hungary in 2010 and the Kingston Fossil Plant spill in Tennessee, US, in 2008 are examples of this. The cleanup from the Kingston Fossil Plant spill took several years and resulted in the deaths of at least 40 workers.
 
-46. [1875th Dublin whiskey fire killed 13 people – all of them were attributed to alcohol poisoning from drinking the undiluted whiskey 🥃🔥💀.](https://en.wikipedia.org/wiki/Dublin_whiskey_fire)
+46. [1875 Dublin whiskey fire killed 13 people – all of them were attributed to alcohol poisoning from drinking the undiluted whiskey 🥃🔥💀.](https://en.wikipedia.org/wiki/Dublin_whiskey_fire)
 	
 	The Dublin whiskey fire occurred on 18 June 1875. It lasted one night and caused $6.44 million worth of damage in whiskey alone (adjusted for inflation). The fire started in a bonded storehouse where over 1 million liters of whiskey were stored. The fire caused a river of whiskey to flow through the streets. Many people drank from it, leading to 24 hospitalizations and 13 deaths due to alcohol poisoning.
 
@@ -197,7 +200,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	Apiaceae, also known as the celery, carrot, or parsley family, is a large family of flowering plants with over 3,800 species. The family is known for its aromatic plants and includes many economically important species. Some members of the family are toxic, including poison hemlock, water hemlock, and giant hogweed.
 
-48. [Dictyostelium discoideum, also known as *Dictys*, are a type of slime mold (which are actually not molds (molds are fungi) but are protists), and they are fucking amazing 🍄🤯.](https://youtu.be/ZTOOSisTld8?t=633)
+48. [*Dictyostelium discoideum*, also known as *Dictys*, is a species of slime mold (not a true mold, which is a fungus, but a protist), and it is fucking amazing 🍄🤯.](https://youtu.be/ZTOOSisTld8?t=633)
 	
 	Just watch the second half of the video, starting at the 10:33 minute mark.
 
@@ -211,7 +214,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	Casiopea is a Japanese jazz fusion band that has been active for over 40 years and is known for its high-energy performances and catchy melodies. The band was formed in 1977 and succeeded in Japan in the 1980s with its synthesized instrumental music.
 
-52. [GPS doesn't work when the device is moving faster than 1,000 knots (1,900 km/h; 1,200 mph) or at an altitude higher than 18,000 m (59,000 ft) – These *CoCom Limits* were intended to prevent the use in intercontinental ballistic missiles 🛰️🚀.](https://en.wikipedia.org/wiki/Coordinating_Committee_for_Multilateral_Export_Controls#Legacy)
+52. [Some civilian GPS receivers enforce *CoCom limits* around 1,000 knots (1,900 km/h; 1,200 mph) and 18,000 m (59,000 ft), and may stop reporting a position at high speed or altitude. These receiver limits were intended to prevent use in intercontinental ballistic missiles 🛰️🚀.](https://en.wikipedia.org/wiki/Coordinating_Committee_for_Multilateral_Export_Controls#Legacy)
 
 53. [You're technically hotter than the Sun: The Sun's core produces 60 mW of thermal energy (for a volume of 1 cup). That's about the same as a lizard and substantially less than a human (350 mW) ♨️🌞🤸](https://www.youtube.com/watch?v=6tu0mIpX8nU)
 	
@@ -223,7 +226,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 
 55. [Higher salt intake, in the long term, leads to lower thirst, more hunger, and higher blood pressure 🧂🩸.](https://www.youtube.com/watch?v=Jy2ncip_ILA)
 
-56. [¼ of all people are super-tasters ½ are normal tasters and ¼ are non-tasters – super-tasters usually prefer more salt 👅🧂.](https://www.youtube.com/watch?v=Jy2ncip_ILA)
+56. [¼ of all people are super-tasters, ½ are normal tasters, and ¼ are non-tasters – super-tasters usually prefer more salt 👅🧂.](https://www.youtube.com/watch?v=Jy2ncip_ILA)
 
 57. [75% of animals in the ocean are bioluminescent (compared to only 0.1% on land, in the air, and in rivers or lakes) 🐡🔦.](https://www.youtube.com/watch?v=_WZ_yC9KMVw)
 	
@@ -233,7 +236,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	Mesmer believed in an invisible fluid in the body that could be affected by the planet's gravitational force and proposed that manipulating this fluid through magnetized objects could cure diseases caused by a blocked fluid flow. Despite initial success in his medical practice, Mesmer was accused of fraud and forced to leave Vienna, eventually fading from the mesmerist movement. However, his use of trance states in treatment later led to the development of modern hypnotism.
 
-59. [Domino's Pizza was the first to deliver pizza. In the beginning, the store was called Dominic's 🍕🛵.](https://www.insider.com/dominos-fun-facts-2018-12#they-have-been-delivery-centric-since-the-beginning-4)
+59. [Domino's focused on delivery from the beginning, back when its first store was called DomiNick's 🍕🛵.](https://www.insider.com/dominos-fun-facts-2018-12#they-have-been-delivery-centric-since-the-beginning-4)
 
 60. [Pizza Margherita was created in honor of Italy's queen and national flag 🍕👸🏻🇮🇹](https://en.wikipedia.org/wiki/Pizza_Margherita)
 	
@@ -267,10 +270,11 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 
 68. [There are multiple copies and closely related stelæ of the Rosetta Stone. The most recent one was discovered in 2011 🪦🇪🇬](https://www.youtube.com/watch?v=klJBwnBHET8)
 	
-	The Rosetta Stone is a stone slab with hieroglyphic inscriptions that was instrumental in deciphering ancient Egyptian hieroglyphs. It has three copies of a decree honoring kings and priests, one written in hieroglyphs, one in Demotic, and one in Greek. The stone is currently on display at the British Museum in London, where it has been since it was discovered in 1799 by soldiers of Napoleon Bonaparte's army. Multiple copies of this ancient Egyptian decree have been found over the years. Still, the Rosetta Stone is the most well-known and famous due to its role in deciphering hieroglyphs.
+	The Rosetta Stone is a stone slab with hieroglyphic inscriptions that was instrumental in deciphering ancient Egyptian hieroglyphs. It carries a decree honoring kings and priests in three scripts: hieroglyphs, Demotic, and Greek. The stone is currently on display at the British Museum in London, where it has been since it was discovered in 1799 by soldiers of Napoleon Bonaparte's army. Multiple copies of this ancient Egyptian decree have been found over the years. Still, the Rosetta Stone is the most well-known and famous due to its role in deciphering hieroglyphs.
 
 69. [You probably have a lot of misconceptions about the world's geography 🗺❌.](https://storymaps.arcgis.com/stories/1e7f582d478a4b99bd0c70fffeac4c8b)
-	For example
+
+	For example:
 	* ﻿﻿Vancouver has the same latitude as Paris
 	* ﻿﻿New York has the same latitude as Madrid
 	* Two-thirds of the African continent lie north of the equator
@@ -279,11 +283,12 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	The Stephens Island Wren was a bird species native to New Zealand. It disappeared from the larger islands of the country before the arrival of Europeans due to the introduction of Pacific rats but remained on Stephens Island. The extinction of the species is often attributed to the hunting of a single cat, Tibbles, who belonged to the lighthouse keeper David Lyall on Stephens Island. However, several feral cats on the island were likely responsible for the extinction of the Stephens Island Wren in 1895. The bird is now represented in museums by eleven specimens brought by Lyall's cat.
 
-71. [Playing around with the *Demon core* and slipping with the screwdriver lead to a nuclear chain reaction and a lethal burst of radiation 🪛☢️💀.](https://en.wikipedia.org/wiki/Demon_core)
+71. [Playing around with the *Demon core* and slipping with the screwdriver led to a nuclear chain reaction and a lethal burst of radiation 🪛☢️💀.](https://en.wikipedia.org/wiki/Demon_core)
 	
 	The demon core was a plutonium sphere used to develop the first atomic bombs during World War II. It was involved in two criticality accidents at the Los Alamos Laboratory in 1945 and 1946, resulting in the deaths of two physicists and radiation exposure for others present. It was intended to be shipped as part of a nuclear weapon in Japan but was retained at Los Alamos for testing.
 
 72. [The dinosaurs died in springtime 🦖🦕☠️🌸🌼🌷.](https://www.science.org/content/article/springtime-was-season-dinosaurs-died-ancient-fish-fossils-suggest)
+
 	A study used fossilized fish bones to pinpoint the season of the mass extinction event that wiped out nearly three-quarters of life on Earth 66 million years ago. The research found that the asteroid strike occurred in the Northern Hemisphere spring. The impact and subsequent nuclear winter led to the extinction of 75% of Earth's species, including all non-avian dinosaurs. The study also found that the event occurred on a spring day, with the fish dying soon after the asteroid strike. The findings are based on the analysis of thin layers of bone cells in the fins of the fossils, which mark the arrival of different seasons, and isotopic carbon data, which suggests the fish died in the spring.
 
 73. [The hypothesis that dinosaurs died because of an asteroid impact was formed in the 1980s. The first real evidence was the discovery of a layer of clay rich in iridium, an element found in meteorites, at the end of the rock record of the Cretaceous period at various sites around the world 💀☄️.](https://www.science.org/content/article/astonishment-skepticism-greet-fossils-claimed-record-dinosaur-killing-asteroid-impact)
@@ -300,26 +305,27 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 
 77. [The Earth's North Magnetic Pole is Actually a South Magnetic Pole 🌎🧲🧭.](https://xkcd.com/what-if-2/)
 
-78. Raising 1 liter of water from 20°C to 100°C takes 335,520 Joules. Turning it into steam takes 2,262,912 Joules ⛲🧖.
+78. Raising 1 liter of water from 20°C to 100°C takes 335,520 joules. Turning it into steam takes 2,262,912 joules ⛲🧖.
 
-79. [A cumulous cloud the size of a house contains about 1 liter of liquid water 🚰.](https://xkcd.com/what-if-2/)
+79. [A cumulus cloud the size of a house contains about 1 liter of liquid water 🚰.](https://xkcd.com/what-if-2/)
 
 80. [Melting ice sheets on land cause the sea level to rise but can result in a fall in the area around the sheet. The opposite side of the world will experience a greater rise in sea level. If Greenland melts, the worst flooding will occur in Australia and New Zealand 🧊.](https://xkcd.com/what-if-2/)
 
 81. [By law, the flow rate over Niagara Falls is at least 2830 m³/s (100,000 ft³/s) (1415 m³/s or 50,000 ft³/s at night or during the off-season). The rest is used to generate electricity 🏞️⚡.](https://xkcd.com/what-if-2/)
 
-82. [In the 1940s, up to 70% of Karaganda's inhabitants (Kazakhstan's fourth most populous city) were ethnic Germans. They were deported to Siberia and Kazakhstan from various parts of the Soviet Union when Hitler invaded Poland in 1941 🇷🇺❄️✊🇩🇪.](https://en.wikipedia.org/wiki/Karaganda)
+82. [In the 1940s, up to 70% of Karaganda's inhabitants (Kazakhstan's fourth most populous city) were ethnic Germans. They were deported to Siberia and Kazakhstan from various parts of the Soviet Union after Hitler invaded the Soviet Union in 1941 🇷🇺❄️✊🇩🇪.](https://en.wikipedia.org/wiki/Karaganda)
 	
 	Until the 1950s, many of these deportees were interned in labor camps, often simply because they were of German descent. The population of Karaganda fell by 14% from 1989 to 1999 following the dissolution of the Soviet Union; it was once Kazakhstan's second-largest city after Almaty. Over 100,000 people have since emigrated to Germany.
 
 83. [Mount Everest is the highest mountain on Earth when measured from sea level. But: The summit of Mount Chimborazo (Ecuador) is the farthest point from the Earth's center due to the planet's shape. And: The point on the Earth's surface that moves the fastest as the Earth spins is the peak of Mount Cayambe (a volcano north of Chimborazo). Mount Cayambe also has the distinction of being the highest point on the Earth's surface, directly on the equator ⛰️🌋💫.](https://xkcd.com/what-if-2/)
-84. [Rabbits were not domesticated for food until the middle ages 🐰🐇.](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
+
+84. [Rabbits were not domesticated for food until the Middle Ages 🐰🐇.](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 	
-	Before this time, rabbits were primarily kept as pets or for their fur. It was not until the growth of monasteries in the middle ages that rabbits began to be kept for their meat.
+	Before this time, rabbits were primarily kept as pets or for their fur. It was not until the growth of monasteries in the Middle Ages that rabbits began to be kept for their meat.
 
 85. [Hamsters for pets were domesticated in the 1930s 🐹.](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 	
-	Before this time, Hamsters were primarily found in the wild and were not kept as domestic pets. The Syrian Hamster was the first species to be domesticated, followed by the Russian Dwarf Hamster and the Chinese Hamster.
+	Before this time, hamsters were primarily found in the wild and were not kept as domestic pets. The Syrian Hamster was the first species to be domesticated, followed by the Russian Dwarf Hamster and the Chinese Hamster.
 
 86. [Sir George Everest was against naming Mount Everest after him ⛰️🏔️.](https://en.wikipedia.org/wiki/Mount_Everest#Name)
 	
@@ -339,11 +345,14 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 
 90. [Smartwatches flash their light on and off (when measuring the pulse or blood oxygen) to subtract ambient light (during the *off* phase) ⌚🔦💕.](https://www.youtube.com/watch?v=BFZxlauizx0)
 
-91. [Smartwatches measure breathing rate by measuring pulse. When the lungs expand during inhalation, the space within the chest becomes smaller, causing the volume of the heart to decrease. As a result, the heart must beat faster to maintain the same blood flow throughout the body 😮‍💨🫁.](https://www.youtube.com/watch?v=BFZxlauizx0)
-	
 	Blood oxygen is measured by using two effects. 1. Oxygenated blood is redder due to the presence of oxygen-carrying red blood cells. 2. Oxygenated blood absorbs less infrared light than deoxygenated blood. By combining the measurement of reflected red light and infrared light, it is possible to determine the oxygenation level of the blood. The relationship between the two light sources can be used to determine the oxygenation level, even if the ambient light or the position of the device changes. Varying ambient light or the device's position, the two light intensities may move relative to each other. But the direction of their movement will depend on the oxygen concentration of the blood.
 
+91. [Smartwatches can estimate breathing rate from changes in your pulse: your heart rate often rises as you inhale and falls as you exhale 😮‍💨🫁.](https://www.youtube.com/watch?v=BFZxlauizx0)
+
+	The chest cavity expands during inhalation as the diaphragm moves down and the rib cage moves outward. Breathing also changes chest pressure, blood flow, and the nervous signals that regulate heart rate. The resulting variation in heart rate is called [respiratory sinus arrhythmia](https://pmc.ncbi.nlm.nih.gov/articles/PMC3573317/).
+
 92. [Lemon actually has a fairly low Vitamin C content 💪🍋🫑🌶🥫🥦🍓🍋🍊🥝🥬🍎.](https://medwatch.de/weitere-artikel/aloe-vera-das-geschaeft-mit-der-aloe/)
+
 	The following table shows how much of various foods is needed to obtain 100 milligrams of Vitamin C:
 | Food | Amount [in grams] |
 |----------------------|------------------|
@@ -358,7 +367,7 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 | Cooked broccoli | 111 |
 | Cooked brussels sprouts | 118 | 
 | Raw kohlrabi | 159 |
-| Grapefruit | 164 |
+| Pomelo | 164 |
 | Strawberries | 175 | 
 | Lemon | 197 |
 | Orange | 220 | 
@@ -375,4 +384,4 @@ In this post, I'll be sharing a list of things that stood out to me as I read an
 	
 	The abbreviation "oz" for ounce comes from the Latin word "uncia," which was borrowed by Medieval Italian and shortened to "onza," introducing the "z" into the word. These abbreviations were likely adopted in English because of their historical usage in measuring weight and length. The British pound (£) symbol also comes from the Latin word "libra" and originally represented the value of a pound of silver.
 
-95. [On 28 December 2022, Venus, Mercury, Saturn, Jupiter, Mars, and Uranus, plus the Moon and the Earth, were visible to the naked eye 🪐🌎🌎🛸☄️🚀💫👀.](https://www.virtualtelescope.eu/2022/12/30/the-dec-2022-planetary-parade-a-stunning-show-28-dec-2022/)
+95. [On 28 December 2022, Venus, Mercury, Saturn, Jupiter, Mars, and Uranus, plus the Moon, were visible to the naked eye 🪐🌎🛸☄️🚀💫👀.](https://www.virtualtelescope.eu/2022/12/30/the-dec-2022-planetary-parade-a-stunning-show-28-dec-2022/)
